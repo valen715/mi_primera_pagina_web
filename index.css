@@ -1,0 +1,30 @@
+body{
+    background-color: blueviolet;
+}
+h1{
+    text-align: center;
+    text-shadow: 3px 3px;
+    font-size: 70px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+h2{
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+
+.btn{
+height: 20px;
+margin: -20px -20px;
+margin: auto;
+top: 50%;
+left: 50%;
+color: black;
+background-color: brown;
+border-radius: 10px;
+position: relative;
+}
